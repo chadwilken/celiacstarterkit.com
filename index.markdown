@@ -6,7 +6,7 @@ description: Getting started with Celiac Disease can be daunting. This is the no
 
 ## Introduction
 
-Welcome to the exclusive Celiac Club, where every traveler has a unique journey to share. As someone who knows firsthand the challenges of living with celiac disease, I understand the overwhelming feeling of being thrust into this club without a choice. But fear not, my friend, because with knowledge comes power, and in this book, I will share everything I wish I had known when I first started out.
+Welcome to the exclusive Celiac Club, where every traveler has a unique journey to share. As someone who knows firsthand the challenges of living with celiac disease, I understand the overwhelming feeling of being thrust into this club without a choice. But fear not, my friend, because with knowledge comes power, and in this guide, I will share everything I wish I had known when I first started out.
 
 Join me as we navigate the ins and outs of celiac disease together. From the tricky business of cross contamination to the joys of finding safe and delicious food, we'll cover it all. And for those moments when you feel alone, know that there's a community of support waiting for you.
 
@@ -16,21 +16,25 @@ Life with celiac disease can be challenging, but armed with the right informatio
 
 Before we embark on this journey together, I want to make something clear: I'm not a medical expert or a certified nutritionist. I'm just like you – a person living with celiac disease who's had their fair share of struggles and triumphs. But what I lack in formal credentials, I more than make up for in personal experience and knowledge gained through trial and error.
 
-I've spent years researching, experimenting, and connecting with others in the gluten free community to gather insights and tips on living with celiac disease. My goal is to share these hard-earned lessons with you in a way that's practical, informative, and relatable. Whether you're newly diagnosed or a seasoned gluten-free pro, my hope is that you'll find something in this book that will help you on your journey.
+I've spent years researching, experimenting, and connecting with others in the gluten free community to gather insights and tips on living with celiac disease. My goal is to share these hard-earned lessons with you in a way that's practical, informative, and relatable. Whether you're newly diagnosed or a seasoned gluten-free pro, my hope is that you'll find something in this guide that will help you on your journey.
 
 So, while I can't offer medical advice, I can offer something just as valuable – a wealth of information that's been curated with care. Let's learn and grow together, and create a community that empowers us to live our best lives, one gluten-free step at a time
 
+### About This Site
+
+I originally set off to write an ebook about getting started with celiac disease. The book came in around 12 pages and didn't seem like charging for it was the right thing to do. I converted my book into this site and open-sourced the code. This means that you can contribute back to this guide to improve it. To get started visit [https://github.com/chadwilken/celiacstarterkit.com](https://github.com/chadwilken/celiacstarterkit.com).
+
 ### Some Things to Note
 
-I understand that some of the recommendations and practices outlined in this book may seem daunting or even extreme. However, as someone who has experienced the consequences of even the slightest cross contamination, I take no chances when it comes to my health and well-being.
+I understand that some of the recommendations and practices outlined in this guide may seem daunting or even extreme. However, as someone who has experienced the consequences of even the slightest cross contamination, I take no chances when it comes to my health and well-being.
 
 Living with celiac disease requires a heightened awareness of what we consume, how it's prepared, and where it comes from. It can be a lot to manage, but it's necessary to avoid potentially serious health complications. While some of the precautions may seem excessive, I firmly believe that it's better to be safe than sorry.
 
-So, while you may not need to follow every recommendation in this book to the letter, I encourage you to take them seriously and then figure out what works best for you. Living with celiac disease is not always easy, but with the right mindset and practices in place, it is absolutely possible to live a healthy, happy, and fulfilling life.
+So, while you may not need to follow every recommendation in this guide to the letter, I encourage you to take them seriously and then figure out what works best for you. Living with celiac disease is not always easy, but with the right mindset and practices in place, it is absolutely possible to live a healthy, happy, and fulfilling life.
 
 ### Gluten Is Everywhere
 
-Are you struggling to avoid gluten in your daily life? It may seem like an impossible task as gluten seems to be lurking in everything you consume, from your favorite bread to your trusted beauty products. But don't worry, there's no need to feel overwhelmed! The good news is that there are plenty of gluten-free options available. In fact, I'll provide you with valuable resources later in the book to help you navigate your gluten-free journey with ease. Get ready to live your best gluten-free life!
+Are you struggling to avoid gluten in your daily life? It may seem like an impossible task as gluten seems to be lurking in everything you consume, from your favorite bread to your trusted beauty products. But don't worry, there's no need to feel overwhelmed! The good news is that there are plenty of gluten-free options available. In fact, I'll provide you with valuable resources later in the guide to help you navigate your gluten-free journey with ease. Get ready to live your best gluten-free life!
 
 ### Disease Definition 📙
 
