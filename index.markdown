@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Getting started with Celiac Disease can be daunting. This is the no-nonsense guide to getting started with Celiac Disease.
 ---
 # Celiac Starter Kit
 
