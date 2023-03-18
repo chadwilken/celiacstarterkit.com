@@ -167,7 +167,6 @@ Products such as lip gloss or lip balm should be gluten free as there is a high 
 
 > 👉 If it doesn’t go on your lips or in your mouth then it likely doesn’t **need** to be gluten free. Take into consideration your own habits and sensitivities.
 
-
 ## Traveling ✈️
 
 With a little preparation and foresight you can travel like the old days. Utilizing apps and the social communities above to find restaurants that are safe for you to eat will be made much easier.
