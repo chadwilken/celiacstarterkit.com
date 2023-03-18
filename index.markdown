@@ -36,7 +36,7 @@ Are you struggling to avoid gluten in your daily life? It may seem like an impos
 
 Hopefully your doctor explained what celiac disease is, but just in case I will define it here.
 
-> Celiac disease, sometimes called celiac sprue or gluten-sensitive enteropathy, is an immune reaction to eating gluten, a protein found in wheat, barley and rye. If you have celiac disease, eating gluten triggers an immune response in your small intestine.
+> 👉 Celiac disease, sometimes called celiac sprue or gluten-sensitive enteropathy, is an immune reaction to eating gluten, a protein found in wheat, barley and rye. If you have celiac disease, eating gluten triggers an immune response in your small intestine.
 
 In order for something to be considered safe for you to eat it must contain less than **20 parts-per-million** gluten.
 
@@ -192,6 +192,6 @@ If you’re taking a longer flight such as when traveling internationally you wi
 
 ## Intimacy 💋
 
-Think you can have a little fun with your partner without first worrying about gluten, try again. This is one of those controversial topics once again. I have read reports from some people that are able to kiss their significant other after they have consumed gluten without any response while others claimed that it caused problems for them. I often ask my wife if she is “gluten free” before giving her a kiss on the lips. The easiest solution is that they brush their teeth before indulging in a little fun so that you can feel safe the entire time.
+Think you can't have a little fun with your partner without first worrying about gluten, try again. This is one of those controversial topics once again. I have read reports from some people that are able to kiss their significant other after they have consumed gluten without any response while others claimed that it caused problems for them. I often ask my wife if she is “gluten free” before giving her a kiss on the lips. The easiest solution is that they brush their teeth before indulging in a little fun so that you can feel safe the entire time.
 
 There is some good news though, you don’t have to worry about gluten in sperm or other bodily fluids. Oral sex is perfectly safe as long as you have not used lubricants or other things that contain gluten. Most condoms are also gluten free and in fact there doesn’t seem to be a condom that contains gluten.
