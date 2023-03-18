@@ -27,8 +27,10 @@ url: "https://celiacstarterkit.com" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username: jekyll
 
+google_analytics: G-TL4WFSS97F
+
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.
